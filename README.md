@@ -1,4 +1,4 @@
-# 🧮 Proyecto -MegaSystem
+# 🧮 Proyecto - MegaSystem
 
 Un sistema de información y de control de información que tiene los siguientes módulos:
 
